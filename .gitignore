@@ -1,3 +1,5 @@
 weights
 *.pyc
 .vscode
+*.jpg
+full_scene
